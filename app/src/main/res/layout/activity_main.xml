@@ -22,6 +22,7 @@
         android:text="Send"
         android:textColor="#80FF3B"
         android:textColorHighlight="#931010"
+        android:textColorLink="#FFFFFF"
         tools:layout_editor_absoluteX="128dp"
         tools:layout_editor_absoluteY="151dp" />
 
